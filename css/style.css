@@ -1,0 +1,25 @@
+table {
+	border: 1px solid #000;
+	margin: 0px auto;
+}
+th {
+	padding: 5px 10px;
+	text-align: center;
+	cursor: pointer;
+}
+.yellow {
+	background-color: yellow;
+}
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+
+.box {
+	width: 20px;
+	height: 20px;
+	background-color: thistle;
+	position: absolute;
+}
